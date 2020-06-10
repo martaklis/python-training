@@ -1,6 +1,6 @@
 # python-training
-My first adventure with Python
-Hello!
+My first adventure with Python. 
+Hello! 
 You can find here my first python projects. I learn with:
 - python.org
 - hyperskill.org
